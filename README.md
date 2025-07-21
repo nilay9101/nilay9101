@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilay Kumar</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h3 align="center">Software Developer, Data Analytics, and AI/ML Trainer. </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,SQL,Microsoft Excel,Power BI**
 
-- 📫 How to reach me **nilay9101@gmail.com**
+- 📫 How to reach me **nilaysingh1962@gmail.com**
 
 - ⚡ Fun fact **I am Funny!😁**
 
